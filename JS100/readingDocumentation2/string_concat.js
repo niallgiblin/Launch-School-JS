@@ -1,0 +1,1 @@
+// Both the String.prototype.concat() method and the + operator concatenate two or more strings, returning a new string.

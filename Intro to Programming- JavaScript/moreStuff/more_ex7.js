@@ -1,0 +1,1 @@
+//exception handling is a way of anticipating errors in your code dealing with problems in a predictable fashion

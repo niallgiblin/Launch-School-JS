@@ -1,0 +1,1 @@
+console.log('Mountain'.toUpperCase()) // there is no method for capitalization in MDN
